@@ -1,0 +1,19 @@
+<form method = "GET" action="/movies">
+  <h3>Director</h3><input type="text"  name="director"><input class="button" type="submit" value="Submit">
+</form>
+{{#each Movies}}
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Director</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>{{title}}</td>
+    <td>{{director}}</td>
+    <td>{{year}}</td>
+  </tr>
+{{/each}}
+</table>
+<center>
+<br><br><a href="movies/add">Add A Movie</a></center>

@@ -1,0 +1,14 @@
+node_modules
+
+{title:'Stroszek', year:1977, director:'Werner Herzog’},
+{title:'Fitzcarraldo', year: 1982, director:'Werner Herzog’},
+{title:'Cave of Forgotten Dreams', year: 2010, director:'Werner Herzog’}
+{title:'Me and You and Everyone We Know', year: 2005, director:'Miranda July’}
+{title:’In the Mood For Love’, year: 2000, director:’Wong Kar-wai’};
+{title:’Chungking Express’, year: 1994, director:’Wong Kar-wai’};
+{title:’Enough Said’, year: 2013, director:’Nicole Holofcener’});
+{title:’Walking and Talking’, year: 1996, director:’Nicole Holofcener’});
+
+
+
+
